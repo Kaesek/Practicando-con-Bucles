@@ -8,7 +8,8 @@ class Program
         List<string> favoritas = new List<string>();
         string agregar = "si";
         string peliculaFavorita = "";
-    
+        string eliminar = "Si";
+
         while (agregar.ToLower() == "si")
         {
 
@@ -31,15 +32,13 @@ class Program
             "Tiburon 2",
             "Wall-e",
             "KungFu Panda",
-        };
-
-
+            };
 
             Console.WriteLine("Peliculas: ");
-        foreach (string pelicula in peliculas)
-        {
-            Console.WriteLine(pelicula);
-        }
+            foreach (string pelicula in peliculas)
+            {
+                Console.WriteLine(pelicula);
+            }
 
             Console.WriteLine("\nAgregar a favoritas: ");
             peliculaFavorita = Console.ReadLine();
@@ -56,13 +55,23 @@ class Program
             agregar = Console.ReadLine();
         }
 
+        Console.WriteLine("Deseas eliminar peliculas de tu lista de favoritos?");
+        eliminar = Console.ReadLine();
 
-        //while
-        Console.WriteLine("\nEliminar de favoritas: ");
-        peliculaFavorita = Console.ReadLine();
-        if (favoritas.Contains(peliculaFavorita))
+        if (eliminar.ToLower() == "si")
         {
-            favoritas.Remove(peliculaFavorita);
+            while (eliminar.ToLower() == "si")
+            {
+                Console.WriteLine("\nEliminar de favoritas: ");
+                peliculaFavorita = Console.ReadLine();
+                if (favoritas.Contains(peliculaFavorita))
+                {
+                    favoritas.Remove(peliculaFavorita);
+                }
+
+                Console.WriteLine("Deseas eliminar otra pelicula de tu lista? si/no");
+                eliminar = Console.ReadLine();
+            }
         }
 
         Console.WriteLine("\nFavoritas actualizadas: ");
