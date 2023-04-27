@@ -1,0 +1,15 @@
+C:\Users\fcomi\Desktop\Esucomex\projects.NET\Calculadora2.0\LISTAS\LISTAS\bin\Debug\net6.0\LISTAS.exe
+C:\Users\fcomi\Desktop\Esucomex\projects.NET\Calculadora2.0\LISTAS\LISTAS\bin\Debug\net6.0\LISTAS.deps.json
+C:\Users\fcomi\Desktop\Esucomex\projects.NET\Calculadora2.0\LISTAS\LISTAS\bin\Debug\net6.0\LISTAS.runtimeconfig.json
+C:\Users\fcomi\Desktop\Esucomex\projects.NET\Calculadora2.0\LISTAS\LISTAS\bin\Debug\net6.0\LISTAS.dll
+C:\Users\fcomi\Desktop\Esucomex\projects.NET\Calculadora2.0\LISTAS\LISTAS\bin\Debug\net6.0\LISTAS.pdb
+C:\Users\fcomi\Desktop\Esucomex\projects.NET\Calculadora2.0\LISTAS\LISTAS\obj\Debug\net6.0\LISTAS.csproj.AssemblyReference.cache
+C:\Users\fcomi\Desktop\Esucomex\projects.NET\Calculadora2.0\LISTAS\LISTAS\obj\Debug\net6.0\LISTAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fcomi\Desktop\Esucomex\projects.NET\Calculadora2.0\LISTAS\LISTAS\obj\Debug\net6.0\LISTAS.AssemblyInfoInputs.cache
+C:\Users\fcomi\Desktop\Esucomex\projects.NET\Calculadora2.0\LISTAS\LISTAS\obj\Debug\net6.0\LISTAS.AssemblyInfo.cs
+C:\Users\fcomi\Desktop\Esucomex\projects.NET\Calculadora2.0\LISTAS\LISTAS\obj\Debug\net6.0\LISTAS.csproj.CoreCompileInputs.cache
+C:\Users\fcomi\Desktop\Esucomex\projects.NET\Calculadora2.0\LISTAS\LISTAS\obj\Debug\net6.0\LISTAS.dll
+C:\Users\fcomi\Desktop\Esucomex\projects.NET\Calculadora2.0\LISTAS\LISTAS\obj\Debug\net6.0\refint\LISTAS.dll
+C:\Users\fcomi\Desktop\Esucomex\projects.NET\Calculadora2.0\LISTAS\LISTAS\obj\Debug\net6.0\LISTAS.pdb
+C:\Users\fcomi\Desktop\Esucomex\projects.NET\Calculadora2.0\LISTAS\LISTAS\obj\Debug\net6.0\LISTAS.genruntimeconfig.cache
+C:\Users\fcomi\Desktop\Esucomex\projects.NET\Calculadora2.0\LISTAS\LISTAS\obj\Debug\net6.0\ref\LISTAS.dll
